@@ -2,6 +2,8 @@
 
 ## Goal
 
+Hello
+
 * Reduce food waste by tracking expiration dates of items in your fridge.
 * Recommend recipes using exclusively items within your fridge.
 * Recommend recipes based on user preferences.
